@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+data/
+.DS_Store
+.collaborator
+tinker-rl/tinker-cookbook/
+.humanize/
+einstein-arena/
+tinker-rl/
